@@ -1,0 +1,47 @@
+%YAML:1.0
+---
+
+LogLevel: !!opencv-matrix
+   rows: 1
+   cols: 1
+   dt: d
+   data: [ 1. ]
+Threshold: !!opencv-matrix
+   rows: 1
+   cols: 1
+   dt: d
+   data: [ 190. ]
+Algorithm: !!opencv-matrix
+   rows: 1
+   cols: 1
+   dt: d
+   data: [ 1. ]
+IpLastSegment: !!opencv-matrix
+   rows: 1
+   cols: 1
+   dt: d
+   data: [ 138. ]
+DeviceNode: !!opencv-matrix
+   rows: 1
+   cols: 1
+   dt: d
+   data: [ 0. ]
+FrameSize: !!opencv-matrix
+   rows: 1
+   cols: 2
+   dt: d
+   data: [ 928., 400. ]
+RectifyFrameSize: !!opencv-matrix
+   rows: 1
+   cols: 2
+   dt: d
+   data: [ 232., 200. ]
+FrameRate: !!opencv-matrix
+   rows: 1
+   cols: 1
+   dt: d
+   data: [ 3e+01 ]
+Reserved: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d

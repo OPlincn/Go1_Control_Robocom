@@ -1,0 +1,17 @@
+cannyThreshold = 50
+cannyThresholdMax = 150
+houghThreshold = 80
+houghMinLineLength = 80
+houghMaxLineGap = 250
+yellowHLower = 16
+yellowSLower = 80
+yellowVLower = 110
+yellowHUpper = 29
+yellowSUpper = 200
+yellowVUpper = 220
+lowerAngel = 30
+upperAngel = 90
+dropNode1 = 0;
+dropNode2 = 0;
+dropNode3 = 0;
+dropNode4 = 0;
